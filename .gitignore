@@ -1,0 +1,13 @@
+node_modules/
+.env
+uploads/
+logs/
+.DS_Store
+*.log
+*.pid
+*.seed
+*.pid.lock
+dist/
+coverage/
+.vscode/
+.idea/
